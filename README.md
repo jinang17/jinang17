@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&background=00E0FF00&lines=Hi+%F0%9F%91%8B+My+name+is+Jinang)](https://git.io/typing-svg)
 
-I am an Undergrad Student pursuing by Bachelors in Computer Science
--------------------------------------------------------------------
+![yogitocat](https://user-images.githubusercontent.com/76151703/166524428-00efc0de-69b4-44bb-bb79-965443cb26d1.png)
 
+* I am an Undergrad Student pursuing by Bachelors in Computer Science
 * 🌍  I'm based in Gujarat , India
 * ✉️  You can contact me at [jinangsmiles007@gmail.com](mailto:jinangsmiles007@gmail.com)
 * 🧠  I'm learning Data Structures & Algorithms
@@ -17,7 +17,8 @@ src="https://img.shields.io/github/followers/jinang17?logo=github&style=for-the-
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>![Uploading yogitocat.png…]()
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
