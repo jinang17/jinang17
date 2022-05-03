@@ -1,5 +1,4 @@
-Hi 👋 My name is Jinang
-=======================
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&background=00E0FF00&lines=Hi+%F0%9F%91%8B+My+name+is+Jinang)](https://git.io/typing-svg)
 
 I am an Undergrad Student pursuing by Bachelors in Computer Science
 -------------------------------------------------------------------
