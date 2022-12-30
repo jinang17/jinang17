@@ -28,7 +28,7 @@ src="https://img.shields.io/github/followers/jinang17?logo=github&style=for-the-
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/JV17" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://codeforces.com/profile/jinang17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="jinang" height="50" width="20" /></a>
+<p align="left"> <a href="https://discord.com/users/JV17" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://codeforces.com/profile/jinang17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="jinang" height="40" width="35" /></a>
  <a href="https://www.linkedin.com/in/jinang-vohera-a0174920a" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/herculean017" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 
