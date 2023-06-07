@@ -8,9 +8,7 @@
 * 🧠  I'm learning Data Structures & Algorithms
 * 🤝  I'm open to collaborating on exciting projects, preferred languages c++ and python.
 
-<a href="https://www.twitter.com/herculean017" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/herculean017?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/jinang17" target="_blank" rel="noreferrer"><img
+</a><a href="https://www.github.com/jinang17" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/jinang17?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
